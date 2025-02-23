@@ -1,50 +1,50 @@
-# ¡Hola, soy IAN MARTINEZ! 👋
+# Hello, I'm IAN MARTINEZ! 👋
 
-¡Bienvenido/a a mi perfil de GitHub! Soy una persona **proactiva, comprometida y apasionada por la tecnología**, con un enfoque en el aprendizaje constante y la resolución de problemas. Me encanta trabajar en equipo y enfrentar nuevos desafíos que me permitan crecer tanto personal como profesionalmente. Aquí encontrarás algunos de mis proyectos y contribuciones que reflejan mi pasión por la programación y el desarrollo de software.
-
----
-
-## 🚀 **Sobre mí**
-
-- 🌱 Actualmente estoy enfocado en fortalecer mis habilidades en **Java**, **programación de sockets**, **manejo de hilos** y **manejo de datos JSON**.
-- 💡 Me apasiona la **programación web**, y aunque estoy en un nivel bajo, disfruto trabajando con **JavaScript**, **HTML** y **CSS** para crear interfaces atractivas y funcionales.
-- 📊 También tengo conocimientos básicos en **bases de datos**, lo que me permite entender y gestionar información de manera eficiente.
-- 🎯 Mi objetivo es seguir aprendiendo y contribuir a proyectos innovadores que impacten positivamente en la comunidad.
+Welcome to my GitHub profile! I'm a **proactive, committed, and tech-passionate individual**, focused on continuous learning and problem-solving. I love working in teams and tackling new challenges that allow me to grow both personally and professionally. Here, you'll find some of my projects and contributions that reflect my passion for programming and software development.
 
 ---
 
-## 🛠️ **Habilidades Técnicas**
+## 🚀 **About Me**
 
-### **Lenguajes y Tecnologías**
-- **Java**: Programación orientada a objetos, manejo de hilos, programación de sockets.
-- **Manejo de datos**: JSON, estructuras de datos básicas.
-- **Bases de datos**: Conocimientos básicos en diseño y consultas SQL.
-- **Programación web**: JavaScript, HTML, CSS (nivel básico).
-
-### **Herramientas**
-- Git y GitHub para control de versiones.
-- IDEs como IntelliJ IDEA, Visual Studio Code.
+- 🌱 I'm currently focused on strengthening my skills in **Java**, **socket programming**, **thread management**, and **JSON data handling**.
+- 💡 I'm passionate about **web development**, and although I'm at a beginner level, I enjoy working with **JavaScript**, **HTML**, and **CSS** to create attractive and functional interfaces.
+- 📊 I also have basic knowledge of **databases**, which allows me to understand and manage information efficiently.
+- 🎯 My goal is to keep learning and contribute to innovative projects that positively impact the community.
 
 ---
 
-## 🌟 **Proyectos Destacados**
+## 🛠️ **Technical Skills**
 
-Aquí tienes algunos de los proyectos en los que he trabajado:
+### **Languages and Technologies**
+- **Java**: Object-oriented programming, thread management, socket programming.
+- **Data Handling**: JSON, basic data structures.
+- **Databases**: Basic knowledge of design and SQL queries.
+- **Web Development**: JavaScript, HTML, CSS (beginner level).
 
-1. **OVNI**: Un videojuego interactivo con el usuario usando hilos.
-2. **Veterinaria**: Una aplicación sencilla para gestionar una base de datos tipo JSON de una Veterinaria mostrando al usuario de manera ordenada.
-
-Puedes explorar más en mi repositorio de GitHub. ¡No dudes en clonar, probar y contribuir! 😊
+### **Tools**
+- Git and GitHub for version control.
+- IDEs like IntelliJ IDEA, Visual Studio Code.
 
 ---
 
-## 📫 **¡Conéctate conmigo!**
+## 🌟 **Featured Projects**
 
-Me encanta colaborar en proyectos interesantes y aprender de otros desarrolladores. Si tienes alguna idea o simplemente quieres charlar sobre tecnología, ¡no dudes en contactarme!
+Here are some of the projects I've worked on:
+
+1. **UFO**: An interactive video game using threads.
+2. **Veterinary**: A simple application to manage a JSON-like database for a veterinary clinic, displaying information in an organized way for the user.
+
+Feel free to explore more in my GitHub repository. Don't hesitate to clone, test, and contribute! 😊
+
+---
+
+## 📫 **Connect with Me!**
+
+I love collaborating on interesting projects and learning from other developers. If you have any ideas or just want to chat about technology, feel free to reach out!
 
 - **Email**: [iangmartinezt@gmail.com]
 - **LinkedIn**: [https://www.linkedin.com/in/iangmartinezt/]
 
 ---
 
-¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí. No olvides dejar una ⭐ si te gusta alguno de mis proyectos. 😄
+Thanks for visiting my profile! I hope you find something interesting here. Don't forget to leave a ⭐ if you like any of my projects. 😄
